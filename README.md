@@ -12,10 +12,10 @@ Website portfolio pribadi untuk memenuhi tugas mata kuliah Server dan Deployment
 
 ## Domain
 
-https://chikasilsilia.my.id
+https://nailarahmakhairunisa.my.id
 
 ## Author
 
-Chika Silsila Putri
+Naila Rahma Khairunisa
 
-Universitas Pamulang Serang
+Universitas Pamulang
